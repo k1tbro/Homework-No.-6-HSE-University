@@ -1,5 +1,5 @@
-## Homework 6
+## Homework 6 
 
-Изменения внесены!
+Student - Nikita Malofeyev
 
-Добавлен pullrequest
+Добавлен второй файл!
